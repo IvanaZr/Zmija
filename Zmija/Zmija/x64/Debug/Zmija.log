@@ -1,0 +1,28 @@
+﻿  functions.c
+C:\Users\Ivana\source\repos\Zmija\functions.c(22,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(136,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(140,19): error C2065: 'x': undeclared identifier
+C:\Users\Ivana\source\repos\Zmija\functions.c(142,19): error C2065: 'y': undeclared identifier
+C:\Users\Ivana\source\repos\Zmija\functions.c(148,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(152,15): error C2065: 'x': undeclared identifier
+C:\Users\Ivana\source\repos\Zmija\functions.c(153,15): error C2065: 'y': undeclared identifier
+C:\Users\Ivana\source\repos\Zmija\functions.c(158,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(171,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(191,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(197,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(229,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(235,19): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ivana\source\repos\Zmija\functions.c(255,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(276,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(299,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(364,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(385,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(397,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(447,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(455,9): warning C4098: 'frame': 'void' function returning a value
+C:\Users\Ivana\source\repos\Zmija\functions.c(458,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ivana\source\repos\Zmija\functions.c(461,9): warning C4098: 'frame': 'void' function returning a value
+C:\Users\Ivana\source\repos\Zmija\functions.c(464,5): error C2143: syntax error: missing ';' before '{'
+  Main.c
+C:\Users\Ivana\source\repos\Zmija\Main.c(8,10): warning C4101: 'key': unreferenced local variable
+  Generating Code...
