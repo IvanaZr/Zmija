@@ -22,7 +22,7 @@ int main() {
 
         switch (izbor) {
         case MENU_ADD:
-            addPlayer(filename);
+            snake(filename);
             break;
         case MENU_DISPLAY:
             displayPlayers(filename);
