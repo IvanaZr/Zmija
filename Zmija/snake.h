@@ -1,5 +1,4 @@
 
-#define HEADER_H
 
 #include <stdio.h>
 #include <time.h>
