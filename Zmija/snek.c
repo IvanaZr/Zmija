@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-#include "header.h"
+#include "snake.c"
 
 int main() {
 
