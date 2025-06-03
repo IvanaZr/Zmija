@@ -6,28 +6,6 @@
 #include <time.h>
 #include "player.h"
 
-void addPlayer(const char* filename) {
-    FILE* file = fopen(filename, "ab"); 
-    if (!file) {
-        perror("Error with opening file!");
-        return;
-    }
-
-    Player newPlayer;
-    printf("Enter nickname: ");
-    scanf("%49s", newPlayer.name);
-
-    printf("Unesite rezultat: ");
-    scanf("%d", &newPlayer.score);
-
-    newPlayer.timestamp = time(NULL); 
-
-    fwrite(&newPlayer, sizeof(Player), 1, file);
-    fclose(file);
-
-    printf("Igrač uspješno dodan.\n");
-}
-
 void displayPlayers(const char* filename) {
     FILE* file = fopen(filename, "rb"); 
     if (!file) {
