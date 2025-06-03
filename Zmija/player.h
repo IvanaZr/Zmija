@@ -18,7 +18,7 @@ typedef struct {
     time_t timestamp; 
 } Player;
 
-void addPlayer(const char* filename);
+int snake(const char* filename);
 void displayPlayers(const char* filename);
 void updatePlayer(const char* filename);
 void deletePlayer(const char* filename);
